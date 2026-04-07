@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hybrid-legal-dashboard"
+version = "0.1.0"
+description = "Commercial-ready MVP scaffold for a hybrid legal intelligence dashboard"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "gradio>=4.44; python_version>='3.10'",
+  "huggingface_hub>=0.19.3,<1.0; python_version>='3.10'",
+  "networkx>=3.1,<3.3",
+  "pandas>=2.2",
+  "plotly>=5.24",
+  "pypdf>=5.4",
+  "requests>=2.32",
+  "streamlit>=1.43",
+  "urllib3>=1.26.18,<2; python_version<'3.10'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2"]
+
+[project.scripts]
+legal-dashboard-pipeline = "hybrid_legal_dashboard.pipeline:main"
+legal-dashboard-app = "hybrid_legal_dashboard.app:main"
+legal-dashboard-download-raw = "hybrid_legal_dashboard.download_raw_sources:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

@@ -1,0 +1,25 @@
+cluster_id,node_count,edge_count,member_entities,member_sections,member_districts,top_risk_band
+cluster-001,85,112,"AK Power Industries Private Limited | B.D.Motors Limited | Bansal Oil Extraction Pvt. Ltd | CEEBUILD COMPANY PRIVATE LIMITED | Capital Electronics And Appliances Limited | Constitution of Vacation Bench at NCLT Kolkata order dated 9.5.2018.pdf | Dev R Nil Design Private Limited | E C BOSE AND CO PVT LTD | Essar Power (Jharkhand) Limited | Fabricators Private Limited | GEMUS ENGINEERING LTD | Glory Furnishers Private Limited | Gontermann Peipers (India) Limited | HINDUSTHAN SMALL TOOLS PVT LTD | Hansraj Agrofresh Private Limited | Hindusthan Small Tools Private Limited | In the matter of ATTIVO ECONOMIC ZONE (KOLKATA) PRIVATE LIMITED [CP/ IB/ (187) KB/2024] | Insolvency Proceedings Initiated Against Birla Tyres Ltd | Ispat Industries | JVL Agro Industries Limited | K.S. Oils Limited | Khaitan Electricals Ltd | Kolkata Municipal Corporation | Kolkata | National Company Law Tribunal | Kolkata's SREI Group | Modern India Concast Limited | NADIA CONSTRUCTIONS PRIVATE LIMITED | NCLT Initiates Insolvency Proceedings Against Diksha Greens Limited | NEW HIND SILK HOUSE PRIVATE LIMITED | Naresh Retail Mart LLP | Newsprint Private Limited | Order Dated 23.02.2018 Regarding Reconstitute the NCLT Kolkata Bench.pdf | PRITHVI MULTIPURPOSE COLD STORAGE PRIVATE LIMITED | Prapti Fashions Pvt. Limited | REACON ENGINEERS (INDIA) PVT LTD | ROC West Bengal disqualified directors under section 164(2)(a) | Radhagobind Commercial Limited | Raghav Sarees Private Limited | Rajprtim Agencies Private Limited | Re-constituted of Bench at NCLT, Kolkata.pdf | S K P STEEL INDUSTRIES PRIVATE LIMITED | Salasar EXIM Limited | Sarnamoy Plastic Sack Manufacturing Private Limited | Silverton Spinners Limited | Srei Group | Swati Mining Private Limited | TIRUPATI JUTE INDUSTRIES LIMITED | Techno Fab Manufacturing Ltd | ULTRAMINE PIPETECH PRIVATE LIMITED | Vincom Industries",Section 164,Howrah | Kolkata | Nadia | Purba Medinipur | South 24 Parganas,High
+cluster-012,5,4,Calcutta High Court eCourts Jalpaiguri Bench | Calcutta High Court eCourts Jalpaiguri bench case-status and order gateway,,Jalpaiguri,Medium
+cluster-022,5,4,ROC West Bengal notice of striking off and dissolution under section 248 | ROC West Bengal public notice of striking off under section 248(1),Section 248,,Medium
+cluster-021,4,4,PROGRESS CULTIVATION LIMITED | RNM Infra Private Limited,,Hooghly,Medium
+cluster-002,2,1,Ruia Group,,,Medium
+cluster-006,2,1,Corporate Power Ltd,,,Medium
+cluster-013,2,1,Kalyanpur Cements Limited,,,Medium
+cluster-014,9,8,Begwani Trade and Industries Private Limited | Corporate Ispat Alloys Limited | GoldMine Food Products Limited | IAG Company Limited | Kohlbros Communications Pvt. Ltd | Paper Trade & Industries Private Limited | Sancia Global Infra Project Limited | Small Tools Mfg. Co. of India Ltd,,,Low
+cluster-011,7,6,Agarpara Company Ltd | Chandra Royal Inn P. Ltd | Co. Pvt. Ltd | Contai Bus Syandicate Pvt. Ltd | KD Digital Signature Solution Pvt. Ltd | Purbanchal Petroleum Pvt. Ltd,,,Low
+cluster-005,3,2,Self-Help Group,,Bankura,Low
+cluster-015,3,2,Agarwal Commodities Broker Private Limited | Kaizen Power Ltd,,,Low
+cluster-003,2,1,Nicco Corp,,,Low
+cluster-004,2,1,Central Inland Water Transport Corporation Limited,,,Low
+cluster-007,2,1,Incab Industries,,,Low
+cluster-008,2,1,Madras High Court Orders Winding Up Of SpiceJet Ltd,,,Low
+cluster-009,2,1,Steel Ltd,,,Low
+cluster-010,2,1,Jewellery Limited,,,Low
+cluster-016,2,1,Confitech Sales Private Limited,,,Low
+cluster-017,2,1,Eskay Properties Development Private Limited,,,Low
+cluster-018,2,1,In the matter of P.C.DEY AND SON DISTRIBUTORS PRIVATE LIMITED [I.A.(IBC)(Liquidation). No. 17/KB/2025 in C.P. (],,,Low
+cluster-019,2,1,Multiple Hotels Private Limited,,,Low
+cluster-020,2,1,West Bengal Housing Infrastructure Development Corporation Ltd,,,Low
+cluster-023,2,1,Calcutta High Court eCourts Original Side case-status and order gateway,,,Low
+cluster-024,2,1,Calcutta High Court eCourts Appellate Side case-status and order gateway,,,Low

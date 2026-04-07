@@ -1,0 +1,16 @@
+{
+  "mode": "live",
+  "generated_at": "2026-04-05T19:00:35.695932+00:00",
+  "source_count": 358,
+  "providers": {
+    "rss_feeds": 4,
+    "pages": 86,
+    "static_sources": 6,
+    "local_static_pdfs": 0,
+    "historical_rss_feeds": 0,
+    "company_profile_limit": 20,
+    "insta_enrichment_limit": 0
+  },
+  "historical_range": {},
+  "notes": "Live provider dataset."
+}
